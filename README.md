@@ -72,5 +72,3 @@ I created this tool for personal use to generate and analyze random numbers prod
   ```
 
 ---
-
-Puoi copiare e incollare questo testo nel file README.md del tuo repository GitHub. Se hai ulteriori richieste o modifiche, fammi sapere!
