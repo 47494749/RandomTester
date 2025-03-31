@@ -62,13 +62,13 @@ I created this tool for personal use to generate and analyze random numbers prod
 - **Search for a specific byte sequence:**
 
   ```bash
-  RandomTester64.exe -type 9 -seed 1 -search sequence 0x4a 0xe1 0x3d 0x6c -data_size 8
+  RandomTester64.exe -type 0 -seed 2 -search sequence 0x4ae1 0x3d6c
   ```
 
 - **Search for the recurrence of a byte sequence using the full bit width of the generator:**
 
   ```bash
-  RandomTester64.exe -type 9 -seed 1 -search first_seed
+  RandomTester64.exe -type 0 -seed 1 -search first_seed -data_size 8
   ```
 
 ---
